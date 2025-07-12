@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\fonts\\Yekan.eot",
+      "PackagePath": "staticwebassets\\fonts\\Yekan.eot"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\fonts\\Yekan.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Yekan.ttf"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\fonts\\Yekan.woff",
+      "PackagePath": "staticwebassets\\fonts\\Yekan.woff"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\fonts\\Yekan.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Yekan.woff2"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\fonts\\vazir-Black.eot",
+      "PackagePath": "staticwebassets\\fonts\\vazir-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\fonts\\vazir-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\vazir-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\fonts\\vazir-Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\vazir-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\fonts\\vazir-Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\vazir-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\fonts\\vazir.eot",
+      "PackagePath": "staticwebassets\\fonts\\vazir.eot"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\fonts\\vazir.ttf",
+      "PackagePath": "staticwebassets\\fonts\\vazir.ttf"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\fonts\\vazir.woff",
+      "PackagePath": "staticwebassets\\fonts\\vazir.woff"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\fonts\\vazir.woff2",
+      "PackagePath": "staticwebassets\\fonts\\vazir.woff2"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\Logoo.jpg",
+      "PackagePath": "staticwebassets\\images\\Logoo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\footer.svg",
+      "PackagePath": "staticwebassets\\images\\footer.svg"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\portfolio\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\portfolio\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\portfolio\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\portfolio\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\portfolio\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\portfolio\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\portfolio\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\portfolio\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\portfolio\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\portfolio\\Untitled.png",
+      "PackagePath": "staticwebassets\\images\\portfolio\\Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\portfolio\\iop.png",
+      "PackagePath": "staticwebassets\\images\\portfolio\\iop.png"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\images\\profile-1.jpg",
+      "PackagePath": "staticwebassets\\images\\profile-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\pdf\\1.pdf",
+      "PackagePath": "staticwebassets\\pdf\\1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\styles\\responsive.css",
+      "PackagePath": "staticwebassets\\styles\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\boory\\Desktop\\test\\test\\wwwroot\\styles\\style.css",
+      "PackagePath": "staticwebassets\\styles\\style.css"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.test.props",
+      "PackagePath": "build\\test.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.test.props",
+      "PackagePath": "buildMultiTargeting\\test.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.test.props",
+      "PackagePath": "buildTransitive\\test.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.test.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

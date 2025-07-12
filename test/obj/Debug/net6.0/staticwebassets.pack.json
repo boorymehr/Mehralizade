@@ -1,0 +1,233 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\Logoo.jpg",
+      "PackagePath": "staticwebassets\\Logoo.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\Post-3-16.jpg",
+      "PackagePath": "staticwebassets\\Post-3-16.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\css\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\fonts\\Vazir-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Vazir-Regular.ttf"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\Group 3171.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\Group 3171.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\awards-won.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\awards-won.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\brightness.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\brightness.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\client-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client-1.png"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\client-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client-2.png"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\close.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\close.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\experience.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\experience.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\happy-clients.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\happy-clients.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\logo-footer.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-footer.png"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-white.png"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\moon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\moon.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\projects-completed.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\projects-completed.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\projects\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\1.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\projects\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\2.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\projects\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\3.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\projects\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\4.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\projects\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\5.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\projects\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\6.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\services\\content-writing.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\content-writing.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\services\\illustration.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\illustration.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\services\\seo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\seo.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\services\\ui-design.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\ui-design.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\services\\web-dev.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\web-dev.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\services\\youtube.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\youtube.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\social-icons\\feather_dribbble.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\social-icons\\feather_dribbble.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\social-icons\\feather_github.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\social-icons\\feather_github.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\social-icons\\feather_instagram.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\social-icons\\feather_instagram.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\social-icons\\feather_linkedin.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\social-icons\\feather_linkedin.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\testmonial-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testmonial-bg.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\thumbnail-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\thumbnail-1.png"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\thumbnail-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\thumbnail-2.png"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\images\\uparrow.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\uparrow.svg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\assets\\js\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\js\\validate.js"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\be-a-programmer.jpg",
+      "PackagePath": "staticwebassets\\be-a-programmer.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\images.jpg",
+      "PackagePath": "staticwebassets\\images.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\pdf\\1.pdf",
+      "PackagePath": "staticwebassets\\pdf\\1.pdf"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\produ.png",
+      "PackagePath": "staticwebassets\\produ.png"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\programming.jpg",
+      "PackagePath": "staticwebassets\\programming.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\turned-gray-laptop-computer.jpg",
+      "PackagePath": "staticwebassets\\turned-gray-laptop-computer.jpg"
+    },
+    {
+      "Id": "D:\\boooooooory\\Resume\\test\\test\\wwwroot\\wq.png",
+      "PackagePath": "staticwebassets\\wq.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.test.props",
+      "PackagePath": "build\\test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.test.props",
+      "PackagePath": "buildMultiTargeting\\test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.test.props",
+      "PackagePath": "buildTransitive\\test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.test.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.test.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

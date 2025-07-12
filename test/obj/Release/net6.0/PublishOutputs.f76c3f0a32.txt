@@ -1,0 +1,7 @@
+C:\Users\boory\Desktop\test\test\obj\Release\net6.0\PubTmp\Out\test.exe
+C:\Users\boory\Desktop\test\test\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\boory\Desktop\test\test\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\boory\Desktop\test\test\obj\Release\net6.0\PubTmp\Out\test.dll
+C:\Users\boory\Desktop\test\test\obj\Release\net6.0\PubTmp\Out\test.deps.json
+C:\Users\boory\Desktop\test\test\obj\Release\net6.0\PubTmp\Out\test.runtimeconfig.json
+C:\Users\boory\Desktop\test\test\obj\Release\net6.0\PubTmp\Out\test.pdb

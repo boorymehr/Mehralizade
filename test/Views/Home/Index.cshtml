@@ -1,0 +1,304 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (TempData["Succ"] != null)
+{
+    <div class="alert">
+        ارسال شد
+    </div>
+}
+@if (TempData["Err"] != null)
+{
+    <div class="alert">
+        ارسال شد
+    </div>
+}
+
+<main>
+    <div>
+    <section class="hero-section" id="home">
+        <div class="container">
+            <div class="hero-inner d-flex">
+                <div class="col-left">
+                    <span class="sub-heading">
+                        سلام
+                    </span>
+                    <h1 class="heading">
+                        محمدرضا
+                        <span>مهرعلیزاده</span>
+                    </h1>
+                    <h4 class="heading2">
+                        fullstack developer
+                    </h4>
+                    <div class="btn-blk">
+                        <a href="#contact" class="btn btn-blue">بیایید صحبت کنیم</a>
+                        <a href="#portfolio" class="btn btn-black">مشاهده پروژه ها</a>
+                    </div>
+                    <div class="social">
+                        <ul>
+                            <li class="social-icon">
+                                    <a href="https://instagram.com/_Mehralizadee_">
+                                        <img src="/assets/images/social-icons/feather_instagram.svg" alt="instagram">
+                                </a>
+                            </li>
+                            <li class="social-icon">
+                                    <a href="https://github.com/boorymehr">
+                                        <img src="/assets/images/social-icons/feather_github.svg" alt="github">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-right">
+                    <img src="/be-a-programmer.jpg" />
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="features">
+        <div class="container">
+            <div class="features-inner d-grid">
+                <div class="feature-item d-flex">
+                    <div class="icon d-flex color1">
+                        <img src="/assets/images/experience.svg" alt="experience">
+                    </div>
+                    <div>
+                        <h3>0</h3>
+                        <p>تجربه</p>
+                    </div>
+                </div>
+                <div class="feature-item d-flex">
+                    <div class="icon d-flex color2">
+                        <img src="/assets/images/happy-clients.svg" alt="happy clients ">
+                    </div>
+                    <div>
+                        <h3>0</h3>
+                        <p>مشتریان راضی</p>
+                    </div>
+                </div>
+                <div class="feature-item d-flex">
+                    <div class="icon d-flex color3">
+                        <img src="/assets/images/projects-completed.svg" alt="happy clients ">
+                    </div>
+                    <div>
+                        <h3>2</h3>
+                        <p>پروژه های موفق</p>
+                    </div>
+                </div>
+                <div class="feature-item d-flex">
+                    <div class="icon d-flex  color4">
+                        <img src="/assets/images/awards-won.svg" alt="awards ">
+                    </div>
+                    <div>
+                        <h3>0</h3>
+                        <p>جایزه ها</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="about ptb-100" id="about">
+        <div class="container">
+            <div class="about-inner d-flex">
+                <div class="about-col-left">
+                    <img src="/turned-gray-laptop-computer.jpg" alt="about" style="width:98%;height: 100%;">
+                </div>
+                <div class="about-col-right">
+                    <h2 class="about-heading">درباره من</h2>
+                    <h3 class="about2">من محمدرضا مهرعلیزاده هستم - طراح سایت</h3>
+                    <p class="about3">متولد 1380 ساکن تهران هستم و در حال حاضر روی پروژه های کوچیک کار میکنم در حال تحصیل در رشته فناوری اطلاعات</p>
+                    <div class="about-btn-blk">
+                        <a asp-controller="Home" asp-action="ResomeDownload" class="btn btn-blue about-btn">دانلود رزومه</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="experience ptb-100">
+        <div class="container">
+            <h2>مهارت های من </h2>
+            <div class="experience-inner d-grid">
+                <div class="progressbar-item">
+                    <div class="progressbar-content d-flex">
+                        <h3>html css</h3>
+                        <h4>75%</h4>
+                    </div>
+                    <div class="progessbar-bg">
+                        <div class="progressbar-size" style="width:75%">
+                        </div>
+                    </div>
+                </div>
+                <div class="progressbar-item">
+                    <div class="progressbar-content d-flex">
+                        <h3>java script</h3>
+                        <h4>60%</h4>
+                    </div>
+                    <div class="progessbar-bg">
+                        <div class="progressbar-size" style="width:60%">
+                        </div>
+                    </div>
+                </div>
+                <div class="progressbar-item">
+                    <div class="progressbar-content d-flex">
+                        <h3>c#</h3>
+                        <h4>70%</h4>
+                    </div>
+                    <div class="progessbar-bg">
+                        <div class="progressbar-size" style="width:70%">
+                        </div>
+                    </div>
+                </div>
+                <div class="progressbar-item">
+                    <div class="progressbar-content d-flex">
+                        <h3>asp net core</h3>
+                        <h4>68%</h4>
+                    </div>
+                    <div class="progessbar-bg">
+                        <div class="progressbar-size" style="width:68%">
+                        </div>
+                    </div>
+                </div>
+                <div class="progressbar-item">
+                    <div class="progressbar-content d-flex">
+                        <h3>sql server</h3>
+                        <h4>71%</h4>
+                    </div>
+                    <div class="progessbar-bg">
+                        <div class="progressbar-size" style="width:71%">
+                        </div>
+                    </div>
+                </div>
+                <div class="progressbar-item">
+                    <div class="progressbar-content d-flex">
+                        <h3>jquery</h3>
+                        <h4>75%</h4>
+                    </div>
+                    <div class="progessbar-bg">
+                        <div class="progressbar-size" style="width:75%">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="services ptb-100" id="services">
+        <div class="container">
+            <h2>آنچه ارائه می دهم</h2>
+            <div class="services-inner d-grid">
+                <div class="services-block">
+                    <div class="service-icon color1 d-flex">
+                        <img src="/assets/images/services/ui-design.svg" alt="ui design">
+                    </div>
+                    <h3>طراحی UI/UX</h3>
+                    <p>بهبود قابلیت استفاده,سهولت در استفاده,تعاملی لذت‌بخش بین کاربر یا مشتری و محصول</p>
+                </div>
+                <div class="services-block">
+                    <div class="service-icon color2 d-flex">
+                        <img src="/assets/images/services/web-dev.svg" alt="web dev">
+                    </div>
+                    <h3>توسعه وب</h3>
+                    <p>پشتیبانی 6 ماهه رایگان از وب سایت 12 ساعته</p>
+                </div>
+                <div class="services-block">
+                    <div class="service-icon color3 d-flex">
+                        <img src="/assets/images/services/illustration.svg" alt="illustration">
+                    </div>
+                    <h3>طراحی</h3>
+                    <p>طراحی و توسعه با بروز ترین فریم ورک </p>
+                </div>
+                <div class="services-block">
+                    <div class="service-icon color4 d-flex">
+                        <img src="/assets/images/services/seo.svg" alt="SEO ">
+                    </div>
+                    <h3>سئو </h3>
+                    <p>بهینه‌سازی موتور جستجو و صفحه اول گوگل</p>
+                </div>
+                <div class="services-block">
+                    <div class="service-icon color5 d-flex">
+                        <img src="/assets/images/services/content-writing.svg" alt="Content writing ">
+                    </div>
+                    <h3>نوشتن محتوا </h3>
+                    <p>نوشتن مقاله</p>
+                </div>
+                <div class="services-block">
+                    <div class="service-icon color6 d-flex">
+                        <img src="/assets/images/services/youtube.svg" alt="youtube ">
+                    </div>
+                    <h3>یوتیوبر </h3>
+                    <p>برای بازدهی سایت</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="cta">
+        <div class="container">
+            <div class="cta-inner d-flex">
+                <div class="cta-content">
+                    <h3>آیا پروژه ای در ذهن دارید؟</h3>
+                </div>
+                <a href="#contact" class="btn btn-default ">تماس با من</a>
+            </div>
+        </div>
+    </section>
+    <section class="projects ptb-100" id="portfolio">
+        <div class="container">
+            <h2>پروژههای اخیر</h2>
+            <div class="projects-inner d-grid">
+                <div class="project-item">
+                    <div class="project-image">
+                        <img src="/produ.png" alt="project image">
+                    </div>
+                    <div class="project-content">
+                        <h3>پروژه فروشگاهی</h3>
+                        <div class="project-view d-flex">
+                            <span>html,css,javascripr,plugin jquery</span>
+                            <a href="#" class="btn-view">مشاهده </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-item">
+                    <div class="project-image">
+                        <img src="/wq.png" alt="project image">
+                    </div>
+                    <div class="project-content">
+                        <h3>سایت شخصی</h3>
+                        <div class="project-view d-flex">
+                            <span>html css javascript , plugin jquery</span>
+                            <a href="javascript:void(0)" class="btn-view">مشاهده </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="contact ptb-100" id="contact">
+        <div class="container">
+            <h2>تماس با من</h2>
+                <form id="basic-form" asp-action="MessageSend" method="post">
+                    <div class="contact-inner d-flex">
+                    <div class="input-block form-item">
+                        <label>نام</label>
+                        <input type="text" name="FullName" required>
+                    </div>
+                    <div class="input-block form-item">
+                        <label>ایمیل</label>
+                        <input type="Email" name="Email" required>
+                    </div>
+                    <div class="input-block form-item">
+                        <label>تلفن</label>
+                        <input type="text" name="Title" required>
+                    </div>
+                    <div class="textarea form-item">
+                        <label>پیام شما</label>
+                        <textarea name="Text" id="" required></textarea>
+                    </div>
+                    <div class="submit-btn form-item">
+                        <button type="submit" value="submit" class="btn btn-blue"> ارسال پیام</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+    </div>
+</main>

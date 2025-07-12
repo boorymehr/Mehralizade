@@ -1,0 +1,143 @@
+@media (min-width: 576px){
+    .container{
+        max-width: 540px;
+    }
+
+    .contact form .input-group input{
+        width: calc(33.33% - 20px);
+        padding: 10px 5px;
+        border: 1px solid #e4e4e4;
+        font-size: 1.5rem;
+    }
+    
+   
+}
+@media (min-width: 768px){
+    .container{
+        max-width: 720px;
+    }
+    .services .service-item{
+        flex: 0 0 calc(50% - 20px);
+        max-width: calc(50% - 20px);
+       }
+       .postfolio .portfolio-gallery .item {
+        flex: 0 0 calc(50% - 20px);
+        max-width: calc(50% - 20px);
+    
+    }
+    .about .about-content .about-img{
+        flex: 0 0 calc(33.33% - 15px);
+        max-width: calc(33.33% - 10px);
+        display: block;
+       
+    }
+    .about .about-content .about-description{
+        flex: 0 0 calc(66.66% - 15px);
+        max-width: calc(66.66% - 10px);
+    }
+    .about .about-content .about-description .info .info-item{
+        flex: 0 0 calc(50% - 15px);
+        max-width: calc(50% - 15px);
+        display: flex;
+        align-items: center;
+        margin-top: 30px;
+        border-bottom: 1px solid #dadada;
+        padding-bottom: 15px;
+    }
+    .blogs .blog-content{
+        flex: 0 0 calc(33.33% - 20px);
+        max-width: calc(33.33% - 20px);
+        background: #fff;
+        overflow: hidden;
+    }
+    .skill .skill-description{
+        flex: 0 0 calc(50% - 30px);
+        max-width: calc(50% - 30px);
+    }
+    .skill .skill-img{
+        flex: 0 0 calc(50% - 30px);
+        max-width: calc(50% - 30px);
+        display: flex;
+        justify-content: flex-end;
+    }
+    .customer .cusotmer-slider .customer-item{
+        flex: 0 0 30%;
+        max-width: 30%;
+        display: none;
+        align-items: center;
+        flex-direction: column;
+        margin: auto;
+    }
+    
+.customer .controls{
+    position: absolute;
+    top: 65%;
+    width: 100%;
+}
+}
+@media (min-width: 992px){
+    .container{
+        max-width: 960px;
+    } 
+    header .navbar ul{
+        display: flex;
+        position: relative;
+        background: transparent;
+        width: 100%;
+        right: 0;
+        top: 0;
+        z-index: 1;
+        text-align: center;
+        visibility: visible;
+           opacity: 1;
+    }
+    .hamburger-menu{
+        display: none;
+    }
+    header .navbar ul li{
+      
+        width: auto;
+        margin: auto;
+        margin-left: 35px;
+    }
+    .about .about-content .about-description h2{
+        font-size: 3.4rem;
+    }
+    .about .about-content .about-description h4{
+        font-size: 2rem;
+    }
+    .about .about-content .about-description > p{
+        font-size: 1.5rem;
+    }
+    .services .service-item{
+        flex: 0 0 calc(33.33% - 20px);
+        max-width: calc(33.33% - 20px);
+    
+    }
+  
+    .postfolio .portfolio-gallery .item {
+        flex: 0 0 calc(33.33% - 20px);
+        max-width: calc(33.33% - 20px);
+    
+    }
+    .home .home-content h1{
+        font-size: 7rem;
+    }
+    .lightbox img{
+        width: 70%;
+        height: 70%;
+    }
+}
+@media (min-width: 1200px){
+    .container{
+        max-width: 1140px;
+    }
+    .postfolio .portfolio-gallery{
+        height: 650px;
+    }
+}
+@media (min-width: 1400px){
+    .container{
+        max-width: 1320px;
+    }
+}

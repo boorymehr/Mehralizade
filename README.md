@@ -1,2 +1,2 @@
-https://github.com/boorymehr/Mehralizade/blob/main/w.png
+![نمایش پروژه](w.png)
 AspNetCore وJavaScriptسایت شخصی با
